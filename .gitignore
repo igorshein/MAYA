@@ -1,0 +1,16 @@
+# Рабочие материалы (не являются частью сайта)
+/old/
+/oldphoto/
+/photo/
+/ref/
+/text/
+/colors/
+
+# Генерируемые и служебные файлы
+node_modules/
+requests.json
+.netlify/
+.vercel/
+*.log
+Thumbs.db
+.DS_Store
