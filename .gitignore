@@ -5,10 +5,13 @@
 /ref/
 /text/
 /colors/
+/maya-dark/   # вынесен в отдельный репозиторий: igorshein/MAYA-dark
+/maya-blue/   # вынесен в отдельный репозиторий: igorshein/MAYA-blue
 
 # Генерируемые и служебные файлы
 node_modules/
 requests.json
+.qa/
 .netlify/
 .vercel/
 *.log
